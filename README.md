@@ -1,4 +1,4 @@
-# T-UI Laucher Savage Edition
+# T-UI Launcher Savage Edition
 
 <img src="https://github.com/33nano/TUI-ConsoleLauncher/blob/master/app/final.png" width=300>
 
