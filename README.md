@@ -17,12 +17,13 @@
 **Wiki**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[GitHub.com](https://github.com/33nano/T-UI_Launcher_Savage_Edition/wiki)**<br>
 **FAQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[GitHub.com](https://github.com/Andre1299/TUI-ConsoleLauncher/wiki/FAQ)**
 
-## Some mentions
+<details><summary>Press</summary>
 
 - **[XDA](https://www.xda-developers.com/linux-cli-launcher-transforms-your-home-screen-into-a-terminal/)**
 - **[Android Authority](http://www.androidauthority.com/linux-cli-launcher-turns-homepage-linux-command-line-interface-767431/)**
 - **[Gadget Hacks](https://android.gadgethacks.com/how-to/linux-style-launcher-turns-your-home-screen-into-command-prompt-0177326/)**
 
+</details>
 ## Contributing
 **Pull requests** are welcome. But **before** you decide to make a major change you should contact me (**[e-mail](mailto:andreuzzi.francesco@gmail.com)**) in order to check if I'm going to include your change in t-ui, so you don't waste your time.
 
