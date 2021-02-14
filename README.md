@@ -39,6 +39,7 @@
 </details>
 
 <details><summary>Open source libraries </summary>
+    
 * [**CompareString2**](https://github.com/fAndreuzzi/CompareString2)
 * [**OkHttp**](https://github.com/square/okhttp)
 * [**HTML cleaner**](http://htmlcleaner.sourceforge.net/)
