@@ -24,8 +24,6 @@
 - **[Gadget Hacks](https://android.gadgethacks.com/how-to/linux-style-launcher-turns-your-home-screen-into-command-prompt-0177326/)**
 
 </details>
-## Contributing
-**Pull requests** are welcome. But **before** you decide to make a major change you should contact me (**[e-mail](mailto:andreuzzi.francesco@gmail.com)**) in order to check if I'm going to include your change in t-ui, so you don't waste your time.
 
 <details><summary>Bug Reporting</summary>
 1. Set "**Bug report**" as subject
