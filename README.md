@@ -1,5 +1,5 @@
 # T-UI Launcher Savage Edition
-
+> T-UI Launcher savage edition is an extended version of the [T-UI launcher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher) with [Termux]*https://github.com/termux/termux-app) intergration and more 
 <img src="https://github.com/33nano/TUI-ConsoleLauncher/blob/master/app/final.png" width=300> <img src="https://github.com/33nano/T-UI_Launcher_Savage_Edition/blob/master/app/11.png" width=300>
 
 <a href="https://play.google.com/store/apps"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>    <a href="https://f-droid.org/">
