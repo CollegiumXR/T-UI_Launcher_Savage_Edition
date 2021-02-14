@@ -28,6 +28,7 @@
 </details>
 
 <details><summary>Bug Reporting</summary>
+    
 1. Set "**Bug report**" as subject
 2. Describe the issue, when it happens, how to reproduce it
 3. **English**! (or Italian, at least)
