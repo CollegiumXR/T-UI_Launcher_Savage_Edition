@@ -27,7 +27,7 @@
 ## Contributing
 **Pull requests** are welcome. But **before** you decide to make a major change you should contact me (**[e-mail](mailto:andreuzzi.francesco@gmail.com)**) in order to check if I'm going to include your change in t-ui, so you don't waste your time.
 
-## How to format a bug report
+<details><summary>Bug Reporting</summary>
 1. Set "**Bug report**" as subject
 2. Describe the issue, when it happens, how to reproduce it
 3. **English**! (or Italian, at least)
@@ -35,9 +35,13 @@
 5. Include any **file** that you think could help (*behavior.xml*, *ui.xml*, etc..)
 6. Send it to **andreuzzi.francesco@gmail.com**
 
-## Open source libraries
+</details>
+
+<details><summary>Open source libraries </summary>
 * [**CompareString2**](https://github.com/fAndreuzzi/CompareString2)
 * [**OkHttp**](https://github.com/square/okhttp)
 * [**HTML cleaner**](http://htmlcleaner.sourceforge.net/)
 * [**JsonPath**](https://github.com/json-path/JsonPath)
 * [**jsoup**](https://github.com/jhy/jsoup/)
+    
+    </details>
