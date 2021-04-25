@@ -19,7 +19,7 @@ jobs:
         with:
           java-version: 1.8
       - name: Generate wrapper properties
-        run: bash gradlew
+        run: bash gradle wrapper
       - name: Run Tests
         run: bash ./gradlew test --stacktrace  
   apk:
